@@ -6297,14 +6297,17 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
         .hero .token-structure .hero-token {
           padding-bottom: 0; } }
       .hero .token-structure .hero-token .xb-item--title {
+        text-align: center;
         font-size: 30px;
         line-height: 87px;
         letter-spacing: -0.02;
         text-transform: capitalize;
-        margin-bottom: -20px; }
+        margin-bottom: -10px; }
       .hero .token-structure .hero-token .xb-item--content {
         line-height: 24px;
-        max-width: 406px;
+        max-width: 800px;
+        margin: 0 auto;  
+        font-size: 18px;
         padding-bottom: 24px; }
       .hero .token-structure .hero-token .xb-item--acc-title {
         font-family: var(--font-body);
